@@ -5,6 +5,7 @@ A very basic shell in C++ (first C++ project)
 mkdir build
 cd build
 cmake ..
+make
 ./bassishell
 ```
 ## Features
