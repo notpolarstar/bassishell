@@ -2,7 +2,9 @@
 A very basic shell in C++ (first C++ project)
 ## Compiling
 ```
-make
+mkdir build
+cd build
+cmake ..
 ./bassishell
 ```
 ## Features
